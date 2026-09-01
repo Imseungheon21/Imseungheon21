@@ -1,6 +1,5 @@
 ## Seungheon Im
 Computer Science @ POSTECH
-
 Interested in distributed AI systems, system software, and reliable AI infrastructure.
 
 Currently exploring distributed LLM training and software systems for AI workloads.
