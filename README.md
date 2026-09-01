@@ -1,4 +1,8 @@
-## Hi there 👋
+## Seungheon Im
+Computer Science @ POSTECH
+Interested in distributed AI systems, system software, and reliable AI infrastructure.
+
+Currently exploring distributed LLM training and software systems for AI workloads.
 
 <!--
 **Imseungheon21/Imseungheon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
