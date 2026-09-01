@@ -1,20 +1,33 @@
-## Seungheon Im
-Computer Science @ POSTECH \n
-Interested in distributed AI systems, system software, and reliable AI infrastructure.
+# Seungheon Im
 
-Currently exploring distributed LLM training and software systems for AI workloads.
+Computer Science undergraduate at POSTECH, graduating in February 2027.
 
-<!--
-**Imseungheon21/Imseungheon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in **distributed AI systems, system software, and reliable AI infrastructure**.  
+My recent work focuses on distributed LLM training, performance modeling, and software systems for structured execution and automation.
 
-Here are some ideas to get you started:
+## Featured
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Heterogeneous Parallelism for Distributed LLM Training](https://github.com/Imseungheon21/heterogeneous_pipelining)
+
+Undergraduate research on extending distributed LLM training systems to represent and evaluate heterogeneous pipeline configurations.
+
+- Stage-specific TP/DP process-group construction
+- Communication across unequal tensor-parallel widths
+- Profiling-derived performance estimation
+- Dynamic-programming configuration search
+- 189 TinyLlama-1.1B configurations evaluated on 8 GPUs
+- 5.85% mean prediction error against measured execution time
+
+## Background
+
+- **POSTECH ECo Lab** — Distributed LLM Systems
+- **WorldQuant BRAIN** — Software & Research Automation
+- **ZUZU (Kodebox)** — Data Analytics
+
+## Tech
+
+`Python` · `C/C++` · `PyTorch` · `CUDA` · `SQL` · `Git` · `Linux`
+
+## Interests
+
+Distributed Systems · AI Systems · Parallel Computing · System Software
