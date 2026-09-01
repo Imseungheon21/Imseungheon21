@@ -20,9 +20,9 @@ Undergraduate research on extending distributed LLM training systems to represen
 
 ## Background
 
-- **POSTECH ECo Lab** — Distributed LLM Systems
-- **WorldQuant BRAIN** — Software & Research Automation
-- **ZUZU (Kodebox)** — Data Analytics
+- **POSTECH ECo Lab** — Distributed LLM Systems *(2025)*
+- **WorldQuant BRAIN** — Software & Research Automation *(2025 – Present)*
+- **ZUZU (Kodebox)** — Data Analytics *(2023)*
 
 ## Tech
 
@@ -30,4 +30,4 @@ Undergraduate research on extending distributed LLM training systems to represen
 
 ## Interests
 
-Distributed Systems · AI Systems · Parallel Computing · System Software
+Distributed Systems · AI Systems · Parallel Computing · System Software · Financial Engineering
