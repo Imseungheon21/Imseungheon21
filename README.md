@@ -7,7 +7,7 @@ My recent work focuses on distributed LLM training, performance modeling, quanti
 
 ## Experience & Projects
 
-### Heterogeneous Parallelism for Distributed LLM Training (https://github.com/Imseungheon21/heterogeneous_pipelining)
+### [Efficient LLM Training with Extended Hybrid Parallelism](https://github.com/Imseungheon21/heterogeneous_pipelining)
 *Aug 2025 - Dec 2025*
 
 Undergraduate research on extending distributed LLM training systems to represent and evaluate heterogeneous pipeline configurations.
